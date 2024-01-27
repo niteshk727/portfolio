@@ -1,14 +1,15 @@
-Text can be **bold**, _italic_, or ~~strikethrough~~. 
+Hey There ! I'm an experienced Java developer with a solid background in Core Java and SQL. Over the years, I've specialized in designing and implementing efficient Java-based applications and optimizing database performance through SQL. My problem-solving skills and collaborative approach have allowed me to excel in cross-functional teams, delivering robust software solutions. I'm committed to staying up-to-date with the latest technologies and opportunities.
 
-There should be whitespace between paragraphs.
+I am on a Journey to bridge gap with latest market trends of Data Analytics, ML and AI.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Here are some of the projects which you can find out for your reference.
 
 # Project 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 # Project 2
+
 
 > This is a blockquote following a header.
 >
