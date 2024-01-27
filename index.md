@@ -24,6 +24,7 @@ Let's talk about some of my work where this can be demonstrated.
 # Omnifood 1
 
 With an idea of web development I have created a food ordering sample app. This application is built using HTML, CSS, JavaScript and some of the bootstrap elements.
+
 checkout here : [Omnifood](https://niteshk727.github.io/omnifood/)
 
 # Project 2
