@@ -1,8 +1,26 @@
-Hey There ! I'm an experienced Java developer with a solid background in Core Java and SQL. Over the years, I've specialized in designing and implementing efficient Java-based applications and optimizing database performance through SQL. My problem-solving skills and collaborative approach have allowed me to excel in cross-functional teams, delivering robust software solutions. I'm committed to staying up-to-date with the latest technologies and opportunities.
+# About Me:
+I'm an experienced Java developer with a solid background in Core Java and SQL. Over the years, I've specialized in designing and implementing efficient Java-based applications and optimizing database performance through SQL. My problem-solving skills and collaborative approach have allowed me to excel in cross-functional teams, delivering robust software solutions. I'm committed to staying up-to-date with the latest technologies and opportunities.
 
-I am on a Journey to bridge gap with latest market trends of Data Analytics, ML and AI.
+I am on a Journey to transition towards latest market trends of **Data Analytics**, **ML** and **AI**.
 
-Here are some of the projects which you can find out for your reference.
+#### Some of my skillset which you can count on
+
+*   Programming Languages : Java & Python
+*   RDBMS, SQL
+*   Data Structures
+*   Web Development
+*   EDA through MS Excel and Pandas
+*   SpringBoot and REST API
+*   XML & SOAP WebServices
+*   Repo Management using git and Github
+*   Unit & Manual Testing
+*   Eclipse
+*   Debugging
+*   Jasper Reports using iReport
+
+Let's talk about some of my work where this can be demonstrated.
+
+
 
 # Project 1
 
@@ -31,12 +49,6 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
 
 ##### Header 5
 
