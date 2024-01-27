@@ -21,9 +21,10 @@ I am on a Journey to transition towards latest market trends of **Data Analytics
 Let's talk about some of my work where this can be demonstrated.
 
 
-# Project 1
+# Omnifood 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+With an idea of web development I have created a food ordering sample app. This application is built using HTML, CSS, JavaScript and some of the bootstrap elements.
+checkout here : [Omnifood](https://niteshk727.github.io/omnifood/)
 
 # Project 2
 
