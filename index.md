@@ -134,4 +134,4 @@ The final element.
 ---
 layout: default
 --- -->
-[Want to Know More](./another-page.html).
+[Want to Know More](./another-page.html)
