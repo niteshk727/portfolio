@@ -134,4 +134,9 @@ The final element.
 ---
 layout: default
 --- -->
+
+### Organizations I have Worked With
+* Capgemini India Pvt. Ltd.
+* Tata Consultancy Services Ltd.
+
 [Want to Know More](./another-page.html)
