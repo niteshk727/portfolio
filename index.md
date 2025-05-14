@@ -14,27 +14,29 @@ I am on a Journey to transition towards latest market trends of **Data Analytics
 *   XML & SOAP WebServices
 *   Repo Management using git and Github
 *   Unit & Manual Testing
-*   Eclipse
+*   Eclipse, Intellij IDEA
 *   Debugging
-*   Jasper Reports using iReport
 
 Let's talk about some of my work where this can be demonstrated.
 
 
-# Omnifood 1
+# Omnifood
 
-With an idea of web development I have created a food ordering sample app. This application is built using HTML, CSS, JavaScript and some of the bootstrap elements.
+With an idea of web development I have created a food ordering sample web-app. This application is built using HTML, CSS, JavaScript and some of the bootstrap elements.
 
 checkout here : [Omnifood](https://niteshk727.github.io/omnifood/)
 
-# Project 2
+# URL Shortner with QR Support
 
+A Sleek and Simple UI with facility of shortening your long url along with custom names for a personalized experience. This comes with a extensive QR support and generation.
 
-> This is a blockquote following a header.
+checkout here : [YourShortURL](https://niteshk727.github.io/YourShortURL/)
+
+<!-- > This is a blockquote following a header.
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> When something is important enough, you do it even if the odds are not in your favor. -->
 
-### Header 3
+<!-- ### Header 3
 
 ```js
 // Javascript code with syntax highlighting.
@@ -131,5 +133,5 @@ The final element.
 ```
 ---
 layout: default
----
-[Link to another page](./another-page.html).
+--- -->
+[Want to Know More](./another-page.html).
